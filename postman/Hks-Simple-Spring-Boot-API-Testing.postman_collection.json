@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "1a99b494-aedb-4a89-944b-ee4f330a2624",
-		"name": "Hitesh-Simple-Spring-Boot-API-Testing",
+		"_postman_id": "75d1ddfc-f470-45ff-ba97-8f5c57698352",
+		"name": "Hks-Simple-Spring-Boot-API-Testing",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "50145330",
-		"_collection_link": "https://hiteshupes-8158880.postman.co/workspace/Hitesh-Kumar-Sharma's-Workspace~5e77250f-8215-46f7-801b-2f24e4d56bda/collection/50145330-1a99b494-aedb-4a89-944b-ee4f330a2624?action=share&source=collection_link&creator=50145330"
+		"_collection_link": "https://hiteshupes-8158880.postman.co/workspace/Hitesh-Kumar-Sharma's-Workspace~5e77250f-8215-46f7-801b-2f24e4d56bda/collection/50145330-75d1ddfc-f470-45ff-ba97-8f5c57698352?action=share&source=collection_link&creator=50145330"
 	},
 	"item": [
 		{
@@ -20,6 +20,7 @@
 							"pm.test(\"Response should be array\", function () {\r",
 							"    pm.expect(pm.response.json()).to.be.an(\"array\");\r",
 							"});\r",
+							"\r",
 							""
 						],
 						"type": "text/javascript",
